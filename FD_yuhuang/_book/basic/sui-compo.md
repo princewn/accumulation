@@ -1,0 +1,10 @@
+# sui组件使用
+## sui-checkbox
+- .checkbox()
+- .checkbox('check')
+- .checkbox('uncheck')
+## sui-pagenation
+- 总条数不一定适用js
+- 初始化的方式有两种，pages或者单页条数和页数，记得更改配置项count-item
+## sui-model
+- 强制改大小可能会导致居中问题，试了各种配置，后来是通过负margin解决的，

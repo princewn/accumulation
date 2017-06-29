@@ -1,0 +1,34 @@
+alt+↑ 向上选取代码块
+Command+alt+L 格式化代码
+Command+alt+L 格式化代码
+Command+delete 删除当前行
+Control+Shift+J 清除缩进变成单行
+
+Command+shift+U 大小写转换
+Command+回车 换行光标还在原先位置
+Command+加号,Command+减号 收缩代码块
+Command+shift+加号，Command+shift+减号 收缩整个文档的代码块
+Command+W 关闭当前文件选项卡
+Control+shift+J 把下面行的缩进收上来
+shift + F6 高级修改，可快速修改光标所在的标签、变量、函数等
+alt+/ 代码补全
+Command+shift+O 跳转到某个文件
+Control+←,Control+→ 转到上/下一个编辑器选项卡
+
+Command+E 弹出最近文件
+Command+alt+←,Command+alt+→ 向前向后导航到代码块交接处（一般是空行处）
+Command+shift+delete 导航到上一个编辑位置的位置
+Command+B 跳转到变量声明处
+
+alt+shift+C 打开最近修改列表
+Command+shift+F 按路径搜索
+Command+shift+R 按路径替换
+
+对项目文件的操作（重构）
+F5 复制文件到某个目录
+F6 移动文件到某个目录
+shift+F6 重命名
+
+alt+shift+F 把文件添加到收藏夹
+Command+shift+A 整个工程的查找操作
+
